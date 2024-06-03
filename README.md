@@ -29,11 +29,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
    
 - Operating Systems Used </h2>
 
-   ![333837721-1e87bc76-a447-42d8-a23e-ec59f2766a5f](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/f278381a-1390-48c4-a692-8ba308ce7423)
 
    
 
 - Windows 10</b> (21H2)
+  
+   ![333837721-1e87bc76-a447-42d8-a23e-ec59f2766a5f](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/f278381a-1390-48c4-a692-8ba308ce7423)
 
 <h2>Ticket Lifecycle Stages</h2>
 
