@@ -24,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
    
     <p>
    
-<h2>- Operating Systems Used </h2>
+- Operating Systems Used </h2>
      i[333837721-1e87bc76-a447-42d8-a23e-ec59f2766a5f](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/14448a4e-ba13-4704-b6d1-04f4f871c33e)
    <p>
 
