@@ -27,7 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
     
    
-- Operating Systems Used </h2>
+  Operating Systems Used </h2>
 
 
    
