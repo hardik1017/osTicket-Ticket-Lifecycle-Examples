@@ -17,9 +17,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <p>
 
 - Remote Desktop
-- Internet Information Services (IIS)
+  ![333838048-622e12c0-9911-41a8-ad28-1cce13e81d25](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/46133d82-cbb0-4e52-8c79-8f4e5a0d68d7)
+   <p>
 
+- Internet Information Services (IIS)
+  
+    <p>
 <h2>Operating Systems Used </h2>
+
+      <p>
 
 - Windows 10</b> (21H2)
 
