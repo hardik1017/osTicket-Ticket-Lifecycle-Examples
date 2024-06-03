@@ -17,17 +17,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <p>
 
 - Remote Desktop
-  ![333838048-622e12c0-9911-41a8-ad28-1cce13e81d25](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/46133d82-cbb0-4e52-8c79-8f4e5a0d68d7)
+     ![333838048-622e12c0-9911-41a8-ad28-1cce13e81d25](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/46133d82-cbb0-4e52-8c79-8f4e5a0d68d7)
    <p>
 
 - Internet Information Services (IIS)
-  ![333837487-d9dc366b-beaa-4cc7-9b97-f1ba9d7ec623](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/fd964316-503a-49ad-8f43-f6f479f3d3c1)
-
+     ![333837487-d9dc366b-beaa-4cc7-9b97-f1ba9d7ec623](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/fd964316-503a-49ad-8f43-f6f479f3d3c1)
     <p>
+   
 <h2>Operating Systems Used </h2>
-![333837721-1e87bc76-a447-42d8-a23e-ec59f2766a5f](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/14448a4e-ba13-4704-b6d1-04f4f871c33e)
-
-      <p>
+     i[333837721-1e87bc76-a447-42d8-a23e-ec59f2766a5f](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/14448a4e-ba13-4704-b6d1-04f4f871c33e)
+   <p>
 
 - Windows 10</b> (21H2)
 
