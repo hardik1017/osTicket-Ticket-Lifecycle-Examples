@@ -21,7 +21,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
    <p>
 
 - Internet Information Services (IIS)
-    ![333837487-d9dc366b-beaa-4cc7-9b97-f1ba9d7ec623](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/fd5c055d-ff2f-4a8c-992f-22e7e483d7e2)
+     ![333837487-d9dc366b-beaa-4cc7-9b97-f1ba9d7ec623](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/fd5c055d-ff2f-4a8c-992f-22e7e483d7e2)
 
     
    
